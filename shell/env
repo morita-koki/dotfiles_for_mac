@@ -2,5 +2,6 @@
 
 
 # one dark
+# weztermと衝突するのでコメントアウト
 # export CLICOLOR=1
 # export LSCOLORS=ExFxBxDxCxegedabagacad
